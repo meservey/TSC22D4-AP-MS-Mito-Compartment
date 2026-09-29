@@ -1,0 +1,9 @@
+# Local analysis dependencies, downloaded references, and visual-QA intermediates
+work/
+
+# Python build/cache files
+__pycache__/
+*.py[cod]
+
+# macOS Finder metadata
+.DS_Store
